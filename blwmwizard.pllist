@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.graupner.blwmwizard</string>
+				<string>com.yokomo.blwmwizard</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
